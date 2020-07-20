@@ -11,5 +11,5 @@ Este projeto trata-se de uma demonstração do uso do Java e Selenium para reali
 
 ![Selenium](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/100px-Selenium_Logo.png)
 
-[<img src="https://lisacrispin.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-17-at-12.13.33-PM.png" width="100"/>](https://lisacrispin.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-17-at-12.13.33-PM.png)[1]][1]
+[<img src="https://lisacrispin.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-17-at-12.13.33-PM.png" width="100"/>][1]][1](https://lisacrispin.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-17-at-12.13.33-PM.png)
 
