@@ -4,7 +4,8 @@
 
 ## Sobre o Projeto
 Este projeto trata-se de uma demonstração do uso do Java e Selenium para realizar testes automatizados e2e dentro do processo do BDD utilizando o Cucumber.
-
+</br>
+</br>
 <p float="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjkDCX-EE2H_0JtiaslWoGEmUD6MxeD-OaCw&usqp=CAU" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/100px-Selenium_Logo.png"  /> 
